@@ -2,14 +2,6 @@
 wttrbar
 </h1>
 
-<p align="center">
-a simple but detailed weather indicator for <a href="https://github.com/Alexays/Waybar/">Waybar</a> using <a href="https://wttr.in/">wttr.in</a>.
-</p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/55081/232401699-b8345fe0-ffce-4353-b51b-615389153448.png" height="400">
-</p>
-<hr />
-
 ## Installation
 
 Compile yourself using `cargo build --release`, or download the precompiled binary from the [releases](https://github.com/bjesus/wttrbar/releases) page.
